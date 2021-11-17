@@ -40,10 +40,10 @@ Erstellt für jede [Kompetenz](https://gitlab.com/ch-tbz-hf/Stud/cnt/-/tree/main
 ![](https://gitlab.com/ch-tbz-hf/Stud/cnt/-/raw/main/2_Unterrichtsressourcen/G/github/x_gitressourcen/columns.png)
 
 Wechselt in die Projekte (= LBs) und erstellt vier Spalten und Bezeichnet diese wie folgt:
-    * In progress
-    * Redo
-    * To examine
-    * Passed
+* In progress
+* Redo
+* To examine
+* Passed
 - - -
    
 ![](https://gitlab.com/ch-tbz-hf/Stud/cnt/-/raw/main/2_Unterrichtsressourcen/G/github/x_gitressourcen/plan.png)    
